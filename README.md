@@ -7,5 +7,6 @@ Streamlit Cloudでデプロイしようとしたが、face_recognitionモジュ�
 --
 下記実行後、localhostにアクセスする。
 
+```
 $ streamlit run main.py
-
+```
