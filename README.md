@@ -3,7 +3,7 @@
 
 Streamlit Cloudでデプロイしようとしたが、face_recognitionモジュール（というか依存しているdlib）のインストール時にリソース制限?でエラーになるためできなかった。（[参考](https://discuss.streamlit.io/t/error-in-installing-the-face-recognition-facing-errors/30011)）
 
-コマンドラインで実行する場合
+使い方
 --
 下記実行後、localhostにアクセスする。
 
